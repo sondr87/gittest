@@ -136,3 +136,4 @@ IncludeTemplateLangFile(__FILE__);
 							<div id="workarea-inner">
 							<h5><?$APPLICATION->ShowTitle(false);?></h5> 
 
+NEW DATA
