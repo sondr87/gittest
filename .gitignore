@@ -1,0 +1,7 @@
+/.deploy
+/bitrix
+/upload
+/webstat
+/web.config
+.htaccess
+*.log
